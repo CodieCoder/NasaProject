@@ -20,6 +20,7 @@
     "is-windows": "^0.2.0",
     "isexe": "^2.0.0",
     "mongoose": "^6.8.4",
+    "morgan": "^1.10.0",
     "os-homedir": "^1.0.2",
     "parse-passwd": "^1.0.0",
     "pm2": "^5.2.2",
